@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">FestiScan</string>
+
+    <!-- Token 20h25 -->
+    <string name="token">eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwOi8vYXBpLmZlc3RpZ2Vlay5sYW4vdjEvdXNlcnMvbG9naW4iLCJpYXQiOjE0NjI0ODYwMTcsImV4cCI6MTQ2Mjc0NTIxNywibmJmIjoxNDYyNDg2MDE3LCJqdGkiOiIwMzM3NmJkMDMxYjBkZDE5MTEwZGQzZWM4ZDE2OWEzNiIsInN1YiI6MX0.JRlYByBs1J2l5ZcUUGgC2nnRYf9ATBiEWDvAgapya1g</string>
+
+    <!-- Users list -->
+    <string name="hint_filter">Filter: username</string>
+    <string name="placeholder_none_found">No users found&#8230;</string>
+
+    <!-- TabHost -->
+    <string name="fragment_scanner">Scanner</string>
+    <string name="fragment_list_users">Users</string>
+
+    <!-- Dialog -->
+    <string name="dialog_please_wait">Please wait</string>
+    <string name="dialog_connecting">Connecting&#8230;</string>
+    <string name="dialog_decoding_qrcode">Decoding QRCode&#8230;</string>
+    <string name="dialog_loading_user">Loading user\'s informations&#8230;</string>
+    <string name="dialog_check_in">Checking in&#8230;</string>
+    <string name="dialog_check_out">Checking out&#8230;</string>
+
+    <!-- User -->
+    <string name="checked_in">Checked in</string>
+    <string name="do_need_parental_authorization">Daddy or Mummy has to sign for you !</string>
+    <string name="do_not_need_parental_authorization">Old pal is an old geek :-)</string>
+    <string name="team_name">Team name: </string>
+    <string name="password">Password: </string>
+
+    <!-- Product -->
+    <string name="button_consume">Consume</string>
+
+</resources>
