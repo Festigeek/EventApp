@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">FestiScan</string>
+
+    <string name="prompt_email">E-mail</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Log in</string>
+
+    <!-- Users list -->
+    <string name="hint_filter">Filter: username</string>
+    <string name="placeholder_none_found">No users found&#8230;</string>
+
+    <!-- TabHost -->
+    <string name="fragment_scanner">Scanner</string>
+    <string name="fragment_list_users">Users</string>
+
+    <!-- Dialog -->
+    <string name="dialog_please_wait">Please wait</string>
+    <string name="dialog_connecting">Connecting&#8230;</string>
+    <string name="dialog_decoding_qrcode">Decoding QRCode&#8230;</string>
+    <string name="dialog_loading_user">Loading user\'s informations&#8230;</string>
+    <string name="dialog_check_in">Checking in&#8230;</string>
+    <string name="dialog_check_out">Checking out&#8230;</string>
+
+    <!-- User -->
+    <string name="checked_in">Checked in</string>
+    <string name="do_need_parental_authorization">Daddy or Mummy has to sign for you !</string>
+    <string name="do_not_need_parental_authorization">Old pal is an old geek :-)</string>
+    <string name="team_name">Team name:</string>
+    <string name="password">Password:</string>
+
+    <!-- Product -->
+    <string name="button_cancel">Cancel</string>
+    <string name="button_consume">Use</string>
+</resources>
