@@ -12,7 +12,8 @@ import android.widget.TextView;
 import java.util.List;
 
 import ch.festigeek.festiscan.R;
-import ch.festigeek.festiscan.communications.RequestPUT2;
+import ch.festigeek.festiscan.activities.UserActivity;
+import ch.festigeek.festiscan.communications.RequestPATCH;
 import ch.festigeek.festiscan.interfaces.ICallback;
 import ch.festigeek.festiscan.interfaces.IConstant;
 import ch.festigeek.festiscan.interfaces.IURL;
@@ -21,10 +22,12 @@ import ch.festigeek.festiscan.utils.Utilities;
 
 public class ListProductAdapter extends ArrayAdapter<Order> implements IConstant, IURL {
 
+    private UserActivity mActivity;
     private List<Order> mList;
 
-    public ListProductAdapter(Context context, int resource, List<Order> list) {
+    public ListProductAdapter(UserActivity a, Context context, int resource, List<Order> list) {
         super(context, resource, list);
+        mActivity = a;
         mList = list;
     }
 
@@ -51,43 +54,49 @@ public class ListProductAdapter extends ArrayAdapter<Order> implements IConstant
         name.setText(str);
 
         final Button consume = (Button) convertView.findViewById(R.id.button_consume);
+        consume.setEnabled(order.isUsed() != order.getAmount());
         final Button cancel = (Button) convertView.findViewById(R.id.button_cancel);
-        if (order.isUsed() == order.getAmount()) {
-            consume.setEnabled(false);
-        } else {
-            consume.setOnClickListener(new View.OnClickListener() {
-                @Override
-                public void onClick(View v) {
-                    new RequestPUT2(new ICallback<String>() {
-                        @Override
-                        public void success(String result) {
-                            consume.setEnabled(false);
-                        }
+        cancel.setEnabled(order.isUsed() != 0);
+        consume.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                String url = BASE_URL + ORDERS + order.getOrderId() + PRODUCTS + order.getProductId();
+                Log.e(LOG_NAME, "value " + order.isUsed());
+                new RequestPATCH(new ICallback<String>() {
+                    @Override
+                    public void success(String result) {
+                        Log.e(LOG_NAME, result);
+                        order.use(order.isUsed() + 1);
+                        mActivity.init();
+                    }
 
-                        @Override
-                        public void failure(Exception ex) {
-                            Log.e(LOG_NAME, ex.getMessage());
-                        }
-                    }, Utilities.getFromSharedPreferences(getContext(), "token"), BASE_URL + ORDERS + order.getOrderId() + CONSUME, "product", order.getProductId()).execute();
-                }
-            });
-            cancel.setOnClickListener(new View.OnClickListener() {
-                @Override
-                public void onClick(View v) {
-                    new RequestPUT2(new ICallback<String>() {
-                        @Override
-                        public void success(String result) {
-                            consume.setEnabled(false);
-                        }
+                    @Override
+                    public void failure(Exception ex) {
+                        Log.e(LOG_NAME, ex.getMessage());
+                    }
+                }, Utilities.getFromSharedPreferences(getContext(), "token"), url, "consume", order.isUsed() + 1).execute();
+            }
+        });
+        cancel.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                String url = BASE_URL + ORDERS + order.getOrderId() + PRODUCTS + order.getProductId();
+                Log.e(LOG_NAME, "value " + order.isUsed());
+                new RequestPATCH(new ICallback<String>() {
+                    @Override
+                    public void success(String result) {
+                        Log.e(LOG_NAME, result);
+                        order.use(order.isUsed() - 1);
+                        mActivity.init();
+                    }
 
-                        @Override
-                        public void failure(Exception ex) {
-                            Log.e(LOG_NAME, ex.getMessage());
-                        }
-                    }, Utilities.getFromSharedPreferences(getContext(), "token"), BASE_URL + ORDERS + order.getOrderId() + CONSUME, "product", order.getProductId()).execute();
-                }
-            });
-        }
+                    @Override
+                    public void failure(Exception ex) {
+                        Log.e(LOG_NAME, ex.getMessage());
+                    }
+                }, Utilities.getFromSharedPreferences(getContext(), "token"), url, "consume", order.isUsed() - 1).execute();
+            }
+        });
 
         return convertView;
     }

@@ -67,10 +67,7 @@ public class UserActivity extends AppCompatActivity implements IConstant, IKeys,
 
         mId = getIntent().getExtras().getInt(KEY_ID);
 
-        mList = new LinkedList<>();
-        mAdapter = new ListProductAdapter(this, R.layout.product_list, mList);
-        ListView listView = (ListView) findViewById(R.id.listView);
-        listView.setAdapter(mAdapter);
+
         init();
     }
 
@@ -78,7 +75,6 @@ public class UserActivity extends AppCompatActivity implements IConstant, IKeys,
         Map<String, Integer> map = mUser.getInscriptionMap();
         map.put(KEY_USED, value);
         String url = BASE_URL + ORDERS + mUser.getOrderId() + PRODUCTS + mUser.getProductId();
-        Log.e(LOG_NAME, url + "-" + value);
         new RequestPATCH(new ICallback<String>() {
             @Override
             public void success(String result) {
@@ -96,7 +92,12 @@ public class UserActivity extends AppCompatActivity implements IConstant, IKeys,
         }, Utilities.getFromSharedPreferences(this, "token"), url, "consume", value).execute();
     }
 
-    private void init() {
+    public void init() {
+        mList = new LinkedList<>();
+        mAdapter = new ListProductAdapter(this,this, R.layout.product_list, mList);
+        mAdapter.clear();
+        ListView listView = (ListView) findViewById(R.id.listView);
+        listView.setAdapter(mAdapter);
         Utilities.initProgressDialog(this, getString(R.string.dialog_loading_user));
         new RequestGET(new ICallback<String>() {
             @Override

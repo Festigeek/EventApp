@@ -1,7 +1,7 @@
 package ch.festigeek.festiscan.interfaces;
 
 public interface IURL {
-    String BASE_URL = "https://api.festigeek.ch/v1/";
+    String BASE_URL = "http://192.168.43.174:8080/v1/";
 
     String LOGIN = "users/login";
 

@@ -13,7 +13,7 @@ public class Order implements IKeys {
     private final int mProductId;
     private final int mProductType;
     private final int mAmount;
-    private final int mIsUsed;
+    private int mIsUsed;
 
     public Order(JSONObject order) throws JSONException {
         mDescription = order.getString(KEY_NAME);
@@ -39,6 +39,10 @@ public class Order implements IKeys {
 
     public int isUsed() {
         return mIsUsed;
+    }
+
+    public void use(int value) {
+        mIsUsed = value;
     }
 
     public int getId() { return mId; }

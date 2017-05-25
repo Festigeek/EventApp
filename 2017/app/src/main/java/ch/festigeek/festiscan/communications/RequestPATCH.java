@@ -38,7 +38,6 @@ public class RequestPATCH extends Communication<String> implements IConstant {
             connection.setRequestProperty("Authorization", "bearer " + mToken);
             connection.setUseCaches(false);
             BufferedWriter bw = new BufferedWriter(new OutputStreamWriter(connection.getOutputStream(), "UTF-8"));
-            Log.e(LOG_NAME, "{\"" + mKey + "\": " + mValue + "}");
             bw.write("{\"" + mKey + "\": " + mValue + "}");
             bw.flush();
             bw.close();
