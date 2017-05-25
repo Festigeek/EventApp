@@ -10,6 +10,7 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.widget.EditText;
 import android.widget.ListView;
+import android.widget.Toast;
 
 import ch.festigeek.festiscan.utils.Utilities;
 import org.json.JSONArray;
@@ -105,7 +106,7 @@ public class ListUsersFragment extends Fragment implements IConstant, IKeys, IUR
 
             @Override
             public void failure(Exception ex) {
-                Log.e(LOG_NAME, ex.getMessage());
+                Toast.makeText(ListUsersFragment.this.getActivity(), ex.getMessage(), Toast.LENGTH_LONG).show();
             }
         }, Utilities.getFromSharedPreferences(getActivity(), "token"), BASE_URL + ALL_USERS).execute();
     }

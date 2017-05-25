@@ -2,1156 +2,580 @@
 <items version="2" >
 
     <item
-        is-multidex="false"
-        jar="/home/bischof/workspaces/festigeek/FestScan/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tagmanager/10.2.6/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.3"
-        sha1="81978250f6de6ffdf2ea4632e7955613103e984c">
-        <dex dex="/home/bischof/workspaces/festigeek/FestScan/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-tagmanager-10.2.6_f49c6c1d571599fc3ca7e8598881c21119cea291.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/bischof/workspaces/festigeek/FestScan/app/build/intermediates/exploded-aar/com.google.firebase/firebase-storage-common/10.2.6/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.3"
-        sha1="3dbaff65d26258306561d545f88d6712ac41dd46">
-        <dex dex="/home/bischof/workspaces/festigeek/FestScan/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-storage-common-10.2.6_a9dab1d8913752a0905e1560d5d868e2178f3b43.jar" />
-    </item>
-    <item
         is-multidex="true"
-        jar="/home/bischof/workspaces/festigeek/FestScan/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tagmanager/10.2.6/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.3"
-        sha1="81978250f6de6ffdf2ea4632e7955613103e984c">
-        <dex dex="/home/bischof/workspaces/festigeek/FestScan/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tagmanager-10.2.6_f49c6c1d571599fc3ca7e8598881c21119cea291/classes.dex" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/bischof/workspaces/festigeek/FestScan/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/10.2.6/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.3"
-        sha1="7979972576b6dbb1688052e42e5199abb54f81ba">
-        <dex dex="/home/bischof/workspaces/festigeek/FestScan/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-location-10.2.6_26656037115cd9914ff8355cd4ffdce259fa8779.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/bischof/workspaces/festigeek/FestScan/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/10.2.6/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.3"
-        sha1="ab2c6111c9e733c965725976ca2a2e57670000f9">
-        <dex dex="/home/bischof/workspaces/festigeek/FestScan/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-analytics-10.2.6_264e0cbec1afa3fbe7332e6da80754c1482f6418.jar" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/bischof/workspaces/festigeek/FestScan/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/10.2.6/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.3"
-        sha1="ab2c6111c9e733c965725976ca2a2e57670000f9">
-        <dex dex="/home/bischof/workspaces/festigeek/FestScan/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-analytics-10.2.6_264e0cbec1afa3fbe7332e6da80754c1482f6418/classes.dex" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/bischof/workspaces/festigeek/FestScan/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/10.2.6/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.3"
-        sha1="553e58050e91d4295a2f1d1f80ea63b41ee5bc4b">
-        <dex dex="/home/bischof/workspaces/festigeek/FestScan/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-wallet-10.2.6_84c913952992d4faacd48b98836a0909457e3fd1.jar" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/bischof/workspaces/festigeek/FestScan/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/10.2.6/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.3"
-        sha1="4d7184a651c5975b49928ce7c76175d491ee7a5e">
-        <dex dex="/home/bischof/workspaces/festigeek/FestScan/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-ads-10.2.6_f92c2aa67d85e4ac6a92f9b860d43f18ee2486cd/classes.dex" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/bischof/workspaces/festigeek/FestScan/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-fitness/10.2.6/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.3"
-        sha1="2f2f16fde0c662116f735951b4e830afba373cc6">
-        <dex dex="/home/bischof/workspaces/festigeek/FestScan/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-fitness-10.2.6_3afe0104a1f53c9dca9888e4aef16e166e8c2762.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/bischof/workspaces/festigeek/FestScan/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.2.6/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.3"
-        sha1="3f0a85e6000998ac322ddd50750e8cf91601a84b">
-        <dex dex="/home/bischof/workspaces/festigeek/FestScan/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-base-10.2.6_2bf605cd83f22037589ec96cf4aea15bb655714d.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/bischof/workspaces/festigeek/FestScan/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth/10.2.6/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.3"
-        sha1="ec94bba6a9bbd3461d90830e0a0752a6487f5484">
-        <dex dex="/home/bischof/workspaces/festigeek/FestScan/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-auth-10.2.6_0b847df31d38828d864f00fefc190d2910af0fec.jar" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/bischof/workspaces/festigeek/FestScan/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth/10.2.6/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.3"
-        sha1="ec94bba6a9bbd3461d90830e0a0752a6487f5484">
-        <dex dex="/home/bischof/workspaces/festigeek/FestScan/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-auth-10.2.6_0b847df31d38828d864f00fefc190d2910af0fec/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/bischof/workspaces/festigeek/FestScan/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/10.2.6/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.3"
-        sha1="553e58050e91d4295a2f1d1f80ea63b41ee5bc4b">
-        <dex dex="/home/bischof/workspaces/festigeek/FestScan/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-wallet-10.2.6_84c913952992d4faacd48b98836a0909457e3fd1/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/bischof/workspaces/festigeek/FestScan/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-games/10.2.6/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.3"
-        sha1="1b41f7538ea1af0aad76cb3253b87b13744788c2">
-        <dex dex="/home/bischof/workspaces/festigeek/FestScan/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-games-10.2.6_1410871de0cce8a48cae629d40cd219ef45602ef/classes.dex" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/bischof/workspaces/festigeek/FestScan/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/10.2.6/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.3"
-        sha1="4d7184a651c5975b49928ce7c76175d491ee7a5e">
-        <dex dex="/home/bischof/workspaces/festigeek/FestScan/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-ads-10.2.6_f92c2aa67d85e4ac6a92f9b860d43f18ee2486cd.jar" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/bischof/workspaces/festigeek/FestScan/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.2.6/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.3"
-        sha1="3f0a85e6000998ac322ddd50750e8cf91601a84b">
-        <dex dex="/home/bischof/workspaces/festigeek/FestScan/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-base-10.2.6_2bf605cd83f22037589ec96cf4aea15bb655714d/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/bischof/workspaces/festigeek/FestScan/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/10.2.6/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.3"
-        sha1="7979972576b6dbb1688052e42e5199abb54f81ba">
-        <dex dex="/home/bischof/workspaces/festigeek/FestScan/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-location-10.2.6_26656037115cd9914ff8355cd4ffdce259fa8779/classes.dex" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/bischof/workspaces/festigeek/FestScan/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-games/10.2.6/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.3"
-        sha1="1b41f7538ea1af0aad76cb3253b87b13744788c2">
-        <dex dex="/home/bischof/workspaces/festigeek/FestScan/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-games-10.2.6_1410871de0cce8a48cae629d40cd219ef45602ef.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/bischof/workspaces/festigeek/FestScan/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.3.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.3"
-        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
-        <dex dex="/home/bischof/workspaces/festigeek/FestScan/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.3.1_1fcdfcbd19eeeb3b9ee0d89e4021e95fff4078f5.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/bischof/tools/android-sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.3"
-        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
-        <dex dex="/home/bischof/workspaces/festigeek/FestScan/app/build/intermediates/pre-dexed/debug/support-annotations-25.3.1_c26dbfc79f9525449fdbc100da81ded028f5c26f.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/bischof/workspaces/festigeek/FestScan/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.3.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.3"
-        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
-        <dex dex="/home/bischof/workspaces/festigeek/FestScan/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.3.1_df8d95f4868f3839946367fbf4b5247f8d59f840.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/bischof/workspaces/festigeek/FestScan/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/10.2.6/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.3"
-        sha1="d79c575e1d97b0298746a4c032a0c1dc201c2f82">
-        <dex dex="/home/bischof/workspaces/festigeek/FestScan/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-analytics-10.2.6_879d5d3f6f1ab07df7d20b288167785497f98e38.jar" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/bischof/workspaces/festigeek/FestScan/app/build/intermediates/exploded-aar/com.google.firebase/firebase-config/10.2.6/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.3"
-        sha1="c4ba6d53176502b2672a5d7d25a0000d1a6e701c">
-        <dex dex="/home/bischof/workspaces/festigeek/FestScan/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-config-10.2.6_71200bc45a3fa7306342f5c6ae7207fb353b2983/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/bischof/workspaces/festigeek/FestScan/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.3.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.3"
-        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
-        <dex dex="/home/bischof/workspaces/festigeek/FestScan/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.3.1_df8d95f4868f3839946367fbf4b5247f8d59f840/classes.dex" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/bischof/workspaces/festigeek/FestScan/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/10.2.6/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.3"
-        sha1="900a290779cdb4eb2e63b6f7806fd9f30ce4f60d">
-        <dex dex="/home/bischof/workspaces/festigeek/FestScan/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-basement-10.2.6_28e3b96cc3fb20273e8187eec4c3fa2916ab7290.jar" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/bischof/workspaces/festigeek/FestScan/app/build/intermediates/exploded-aar/com.google.firebase/firebase-storage-common/10.2.6/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.3"
-        sha1="3dbaff65d26258306561d545f88d6712ac41dd46">
-        <dex dex="/home/bischof/workspaces/festigeek/FestScan/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-storage-common-10.2.6_a9dab1d8913752a0905e1560d5d868e2178f3b43/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/bischof/tools/android-sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.3"
-        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
-        <dex dex="/home/bischof/workspaces/festigeek/FestScan/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.3.1_c26dbfc79f9525449fdbc100da81ded028f5c26f/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/bischof/workspaces/festigeek/FestScan/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/10.2.6/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.3"
-        sha1="d79c575e1d97b0298746a4c032a0c1dc201c2f82">
-        <dex dex="/home/bischof/workspaces/festigeek/FestScan/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-analytics-10.2.6_879d5d3f6f1ab07df7d20b288167785497f98e38/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/bischof/workspaces/festigeek/FestScan/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/10.2.6/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.3"
-        sha1="900a290779cdb4eb2e63b6f7806fd9f30ce4f60d">
-        <dex dex="/home/bischof/workspaces/festigeek/FestScan/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-basement-10.2.6_28e3b96cc3fb20273e8187eec4c3fa2916ab7290/classes.dex" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/bischof/workspaces/festigeek/FestScan/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appinvite/10.2.6/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.3"
-        sha1="79100391e3b32d7323a04b7b8a9c8ad0adbae583">
-        <dex dex="/home/bischof/workspaces/festigeek/FestScan/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-appinvite-10.2.6_b4d2991d1a27c4f18122ba2b39869420dbad6dd1.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/bischof/workspaces/festigeek/FestScan/app/build/intermediates/exploded-aar/com.google.firebase/firebase-appindexing/10.2.6/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.3"
-        sha1="b34276d1fea450411cedd49d3146b04838f9dd6e">
-        <dex dex="/home/bischof/workspaces/festigeek/FestScan/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-appindexing-10.2.6_71580c9264c4f06624888737f1c6fcf4f5da3cb8.jar" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/bischof/workspaces/festigeek/FestScan/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-places/10.2.6/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.3"
-        sha1="cf5f630e354827a90ffe90ce2a330495108f0595">
-        <dex dex="/home/bischof/workspaces/festigeek/FestScan/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-places-10.2.6_9a0a44ce77d595465f04715c545b8341f1bb82ae/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/bischof/workspaces/festigeek/FestScan/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.3.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.3"
-        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
-        <dex dex="/home/bischof/workspaces/festigeek/FestScan/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.3.1_f05cb00a2e94b8c23e615422d38f6155ddf97ab2/classes.dex" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/bischof/workspaces/festigeek/FestScan/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-nearby/10.2.6/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.3"
-        sha1="dd057bc43f1c1e2f13566f5fe800d077b08b61b9">
-        <dex dex="/home/bischof/workspaces/festigeek/FestScan/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-nearby-10.2.6_cd8e4630d146068bcd7cf8b218dabdd5245d45cb.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/bischof/workspaces/festigeek/FestScan/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-identity/10.2.6/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.3"
-        sha1="f1968b9614bc6851e99db64e356cf60063503e5d">
-        <dex dex="/home/bischof/workspaces/festigeek/FestScan/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-identity-10.2.6_53769a05cd8e119c4168e54c6d1a1991d493acd1.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/bischof/workspaces/festigeek/FestScan/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl/10.2.6/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.3"
-        sha1="da832806828ba407284c0c4b1d87b8f9ed9f2520">
-        <dex dex="/home/bischof/workspaces/festigeek/FestScan/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-analytics-impl-10.2.6_9bbd75e6a485730700c7b77f044fc9e4c15c1dc3.jar" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/bischof/workspaces/festigeek/FestScan/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-nearby/10.2.6/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.3"
-        sha1="dd057bc43f1c1e2f13566f5fe800d077b08b61b9">
-        <dex dex="/home/bischof/workspaces/festigeek/FestScan/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-nearby-10.2.6_cd8e4630d146068bcd7cf8b218dabdd5245d45cb/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/bischof/workspaces/festigeek/FestScan/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-identity/10.2.6/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.3"
-        sha1="f1968b9614bc6851e99db64e356cf60063503e5d">
-        <dex dex="/home/bischof/workspaces/festigeek/FestScan/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-identity-10.2.6_53769a05cd8e119c4168e54c6d1a1991d493acd1/classes.dex" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/bischof/workspaces/festigeek/FestScan/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-places/10.2.6/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.3"
-        sha1="cf5f630e354827a90ffe90ce2a330495108f0595">
-        <dex dex="/home/bischof/workspaces/festigeek/FestScan/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-places-10.2.6_9a0a44ce77d595465f04715c545b8341f1bb82ae.jar" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/bischof/workspaces/festigeek/FestScan/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl/10.2.6/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.3"
-        sha1="da832806828ba407284c0c4b1d87b8f9ed9f2520">
-        <dex dex="/home/bischof/workspaces/festigeek/FestScan/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-analytics-impl-10.2.6_9bbd75e6a485730700c7b77f044fc9e4c15c1dc3/classes.dex" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/bischof/workspaces/festigeek/FestScan/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-vision/10.2.6/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.3"
-        sha1="740c4226d6bec1adaaf5fee4b9178674b695f75a">
-        <dex dex="/home/bischof/workspaces/festigeek/FestScan/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-vision-10.2.6_f746b0ae57c0c26578dc8bf1d2e3ff8f9be2e416.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/bischof/workspaces/festigeek/FestScan/app/build/intermediates/exploded-aar/com.android.support/design/25.3.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.3"
-        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
-        <dex dex="/home/bischof/workspaces/festigeek/FestScan/app/build/intermediates/pre-dexed/debug/com.android.support-design-25.3.1_8178134bfe5c71f8ac2e5a0bf6701404807c0f0a.jar" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/bischof/workspaces/festigeek/FestScan/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-vision/10.2.6/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.3"
-        sha1="740c4226d6bec1adaaf5fee4b9178674b695f75a">
-        <dex dex="/home/bischof/workspaces/festigeek/FestScan/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-vision-10.2.6_f746b0ae57c0c26578dc8bf1d2e3ff8f9be2e416/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/bischof/workspaces/festigeek/FestScan/app/build/intermediates/exploded-aar/com.android.support/design/25.3.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.3"
-        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
-        <dex dex="/home/bischof/workspaces/festigeek/FestScan/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-25.3.1_8178134bfe5c71f8ac2e5a0bf6701404807c0f0a/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/bischof/workspaces/festigeek/FestScan/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.3.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.3"
-        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
-        <dex dex="/home/bischof/workspaces/festigeek/FestScan/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.3.1_1fcdfcbd19eeeb3b9ee0d89e4021e95fff4078f5/classes.dex" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/bischof/workspaces/festigeek/FestScan/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-awareness/10.2.6/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.3"
-        sha1="079c035b2a1820bf455e0ae7fd484dec575e2182">
-        <dex dex="/home/bischof/workspaces/festigeek/FestScan/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-awareness-10.2.6_12a4aa57d551ab60eee7a635f1e50dfb37941cf0.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/bischof/workspaces/festigeek/FestScan/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.3.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.3"
-        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
-        <dex dex="/home/bischof/workspaces/festigeek/FestScan/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.3.1_9ecbc81a9cef77a27dd3852bfd6e8aec8767ca41.jar" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/bischof/workspaces/festigeek/FestScan/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-awareness/10.2.6/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.3"
-        sha1="079c035b2a1820bf455e0ae7fd484dec575e2182">
-        <dex dex="/home/bischof/workspaces/festigeek/FestScan/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-awareness-10.2.6_12a4aa57d551ab60eee7a635f1e50dfb37941cf0/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/bischof/workspaces/festigeek/FestScan/app/build/intermediates/exploded-aar/com.google.firebase/firebase-storage/10.2.6/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.3"
-        sha1="ba4defc8cb4ed5b90b8ef71602722cdeebe507cd">
-        <dex dex="/home/bischof/workspaces/festigeek/FestScan/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-storage-10.2.6_b3e9d70db260989f2c7998df40fabaca608f40f6/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/bischof/workspaces/festigeek/FestScan/app/build/intermediates/exploded-aar/com.android.support/transition/25.3.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.3"
-        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
-        <dex dex="/home/bischof/workspaces/festigeek/FestScan/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-transition-25.3.1_3659fdc3095d0712e6b9dccc510152915e418385/classes.dex" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/bischof/workspaces/festigeek/FestScan/app/build/intermediates/exploded-aar/com.android.support/transition/25.3.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.3"
-        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
-        <dex dex="/home/bischof/workspaces/festigeek/FestScan/app/build/intermediates/pre-dexed/debug/com.android.support-transition-25.3.1_3659fdc3095d0712e6b9dccc510152915e418385.jar" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/bischof/workspaces/festigeek/FestScan/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.3.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.3"
-        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
-        <dex dex="/home/bischof/workspaces/festigeek/FestScan/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.3.1_9ecbc81a9cef77a27dd3852bfd6e8aec8767ca41/classes.dex" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/bischof/workspaces/festigeek/FestScan/app/build/intermediates/exploded-aar/com.google.firebase/firebase-storage/10.2.6/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.3"
-        sha1="ba4defc8cb4ed5b90b8ef71602722cdeebe507cd">
-        <dex dex="/home/bischof/workspaces/festigeek/FestScan/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-storage-10.2.6_b3e9d70db260989f2c7998df40fabaca608f40f6.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/bischof/workspaces/festigeek/FestScan/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.3.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.3"
-        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
-        <dex dex="/home/bischof/workspaces/festigeek/FestScan/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.3.1_f05cb00a2e94b8c23e615422d38f6155ddf97ab2.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/bischof/workspaces/festigeek/FestScan/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.3.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.3"
-        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
-        <dex dex="/home/bischof/workspaces/festigeek/FestScan/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.3.1_201ab767cb031a511d02a9a7d20bd677263993b6.jar" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/bischof/.gradle/caches/modules-2/files-2.1/org.apache.commons/commons-lang3/3.4/5fe28b9518e58819180a43a850fbc0dd24b7c050/commons-lang3-3.4.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.3"
-        sha1="5fe28b9518e58819180a43a850fbc0dd24b7c050">
-        <dex dex="/home/bischof/workspaces/festigeek/FestScan/app/build/intermediates/transforms/dex/debug/folders/1000/10/commons-lang3-3.4_253c83adc1783edb82c72f52c22ffedb5d67f16a/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/bischof/workspaces/festigeek/FestScan/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tagmanager-v4-impl/10.2.6/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.3"
-        sha1="d4e5223997fa6032b326167ee4586ae0b3498647">
-        <dex dex="/home/bischof/workspaces/festigeek/FestScan/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tagmanager-v4-impl-10.2.6_1154f19eae1c82222f967d140791ae318cfac9f6/classes.dex" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/bischof/workspaces/festigeek/FestScan/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.3.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.3"
-        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
-        <dex dex="/home/bischof/workspaces/festigeek/FestScan/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-25.3.1_008699216fef9d29d64abcefb989c89bfa4dc6b5.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/bischof/workspaces/festigeek/FestScan/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database-connection/10.2.6/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.3"
-        sha1="5c1f80f62ccad560edcd6609fc75f385cf7cb45a">
-        <dex dex="/home/bischof/workspaces/festigeek/FestScan/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-database-connection-10.2.6_842273f97aa3100db6af99dcd4252baff5296b59.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/bischof/workspaces/festigeek/FestScan/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-clearcut/10.2.6/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.3"
-        sha1="1172091167cff5873cbcccad4c0e08ec9e3240de">
-        <dex dex="/home/bischof/workspaces/festigeek/FestScan/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-clearcut-10.2.6_795053cfb490e0206bd3d6e4a76b0555e71d0f6e.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/bischof/workspaces/festigeek/FestScan/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tagmanager-api/10.2.6/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.3"
-        sha1="84a9797d6c3dd732d00f0433edc17778573cea17">
-        <dex dex="/home/bischof/workspaces/festigeek/FestScan/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-tagmanager-api-10.2.6_a1f30a074b0bf4af21b1359888e9b73dcf33bff9.jar" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/bischof/workspaces/festigeek/FestScan/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.3.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.3"
-        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
-        <dex dex="/home/bischof/workspaces/festigeek/FestScan/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.3.1_201ab767cb031a511d02a9a7d20bd677263993b6/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/bischof/workspaces/festigeek/FestScan/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.3.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.3"
-        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
-        <dex dex="/home/bischof/workspaces/festigeek/FestScan/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.3.1_008699216fef9d29d64abcefb989c89bfa4dc6b5/classes.dex" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/bischof/.gradle/caches/modules-2/files-2.1/org.apache.commons/commons-lang3/3.4/5fe28b9518e58819180a43a850fbc0dd24b7c050/commons-lang3-3.4.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.3"
-        sha1="5fe28b9518e58819180a43a850fbc0dd24b7c050">
-        <dex dex="/home/bischof/workspaces/festigeek/FestScan/app/build/intermediates/pre-dexed/debug/commons-lang3-3.4_253c83adc1783edb82c72f52c22ffedb5d67f16a.jar" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/bischof/workspaces/festigeek/FestScan/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database-connection/10.2.6/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.3"
-        sha1="5c1f80f62ccad560edcd6609fc75f385cf7cb45a">
-        <dex dex="/home/bischof/workspaces/festigeek/FestScan/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-database-connection-10.2.6_842273f97aa3100db6af99dcd4252baff5296b59/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/bischof/workspaces/festigeek/FestScan/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tagmanager-api/10.2.6/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.3"
-        sha1="84a9797d6c3dd732d00f0433edc17778573cea17">
-        <dex dex="/home/bischof/workspaces/festigeek/FestScan/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tagmanager-api-10.2.6_a1f30a074b0bf4af21b1359888e9b73dcf33bff9/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/bischof/workspaces/festigeek/FestScan/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.3.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.3"
-        sha1="95519720620b553f63afc789beba9ad582807f7c">
-        <dex dex="/home/bischof/workspaces/festigeek/FestScan/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-25.3.1_a6f711a6fd927cf25a01da2bd1030d7193996d57/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/bischof/workspaces/festigeek/FestScan/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/10.2.6/jars/classes.jar"
+        jar="/Users/Iosis/.android/build-cache/3c8a674d3750f2f0ed60b4e5c89b9cf74cfd4b25/output/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.3"
         sha1="69e74a8b1cbf5b8ee0fc0cca6bab1ac6c45efef8">
-        <dex dex="/home/bischof/workspaces/festigeek/FestScan/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tasks-10.2.6_28721ff893f6c5849fdefd6bfc01d9e07b278f11/classes.dex" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/bischof/workspaces/festigeek/FestScan/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics-impl/10.2.6/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.3"
-        sha1="cad5ae5774f39b7017a3ae3d103e7b78506397b0">
-        <dex dex="/home/bischof/workspaces/festigeek/FestScan/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-analytics-impl-10.2.6_5769a71da3a094faa5029a5944b93f035d7665d4.jar" />
+        <dex dex="/Users/Iosis/Desktop/dev/Android/FestiScan/2017/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c0db88cb743d47f0d455622ca6d44e79f1aac444/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/home/bischof/workspaces/festigeek/FestScan/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-clearcut/10.2.6/jars/classes.jar"
+        jar="/Users/Iosis/.android/build-cache/f4ba1616937b19ec358b946ae2329adc0f2ad49f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d79c575e1d97b0298746a4c032a0c1dc201c2f82">
+        <dex dex="/Users/Iosis/Desktop/dev/Android/FestiScan/2017/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_0e00a408c2870851dfc1e2e62eea741bc55ad956/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Iosis/.android/build-cache/92eda9b4dab66d70e0cadd570fe90c4e3f97f56a/output/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.3"
         sha1="1172091167cff5873cbcccad4c0e08ec9e3240de">
-        <dex dex="/home/bischof/workspaces/festigeek/FestScan/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-clearcut-10.2.6_795053cfb490e0206bd3d6e4a76b0555e71d0f6e/classes.dex" />
+        <dex dex="/Users/Iosis/Desktop/dev/Android/FestiScan/2017/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c80fd0c52f3ee5f762018750f6f6e875e612539a/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/home/bischof/workspaces/festigeek/FestScan/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-instantapps/10.2.6/jars/classes.jar"
+        jar="/Users/Iosis/.android/build-cache/51b4cfc09e5cb3a9540eca12a4ae68521ad351c7/output/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.3"
-        sha1="a00607e7cf55392edd324bc8fa3827ded7e9859b">
-        <dex dex="/home/bischof/workspaces/festigeek/FestScan/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-instantapps-10.2.6_251e39c960b695f9dc6d774fb53d42f0af3899d8/classes.dex" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/bischof/workspaces/festigeek/FestScan/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database/10.2.6/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.3"
-        sha1="de24d8023e8da79f30bee46b298f606e5e758432">
-        <dex dex="/home/bischof/workspaces/festigeek/FestScan/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-database-10.2.6_d2503c0d0508c41a3a5dd5f3b121ab0709184354.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/bischof/workspaces/festigeek/FestScan/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-safetynet/10.2.6/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.3"
-        sha1="d068a922134f5f9b9f98bfc609145e09af03c2a4">
-        <dex dex="/home/bischof/workspaces/festigeek/FestScan/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-safetynet-10.2.6_51b4fb44093bc20b131027310637987c391d7e83.jar" />
+        sha1="553e58050e91d4295a2f1d1f80ea63b41ee5bc4b">
+        <dex dex="/Users/Iosis/Desktop/dev/Android/FestiScan/2017/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_363435ec97fd5636374cbfe2d781597236b6c7cd/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/home/bischof/workspaces/festigeek/FestScan/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-drive/10.2.6/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.3"
-        sha1="aec5337725e7a3171f7f40a50d9837745693d429">
-        <dex dex="/home/bischof/workspaces/festigeek/FestScan/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-drive-10.2.6_12b1eaf75b38116eb3fdaf8ff9e21866c65751d5/classes.dex" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/bischof/workspaces/festigeek/FestScan/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/10.2.6/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.3"
-        sha1="69e74a8b1cbf5b8ee0fc0cca6bab1ac6c45efef8">
-        <dex dex="/home/bischof/workspaces/festigeek/FestScan/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-tasks-10.2.6_28721ff893f6c5849fdefd6bfc01d9e07b278f11.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/bischof/workspaces/festigeek/FestScan/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tagmanager-v4-impl/10.2.6/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.3"
-        sha1="d4e5223997fa6032b326167ee4586ae0b3498647">
-        <dex dex="/home/bischof/workspaces/festigeek/FestScan/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-tagmanager-v4-impl-10.2.6_1154f19eae1c82222f967d140791ae318cfac9f6.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/bischof/workspaces/festigeek/FestScan/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-instantapps/10.2.6/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.3"
-        sha1="a00607e7cf55392edd324bc8fa3827ded7e9859b">
-        <dex dex="/home/bischof/workspaces/festigeek/FestScan/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-instantapps-10.2.6_251e39c960b695f9dc6d774fb53d42f0af3899d8.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/bischof/workspaces/festigeek/FestScan/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.3"
-        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
-        <dex dex="/home/bischof/workspaces/festigeek/FestScan/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-25.3.1_e02bd68e86547c889c9e9135633e184a8bf45332.jar" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/bischof/workspaces/festigeek/FestScan/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.3"
-        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
-        <dex dex="/home/bischof/workspaces/festigeek/FestScan/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.3.1_e02bd68e86547c889c9e9135633e184a8bf45332/classes.dex" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/bischof/workspaces/festigeek/FestScan/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.3.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.3"
-        sha1="95519720620b553f63afc789beba9ad582807f7c">
-        <dex dex="/home/bischof/workspaces/festigeek/FestScan/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-25.3.1_a6f711a6fd927cf25a01da2bd1030d7193996d57.jar" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/bischof/workspaces/festigeek/FestScan/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database/10.2.6/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.3"
-        sha1="de24d8023e8da79f30bee46b298f606e5e758432">
-        <dex dex="/home/bischof/workspaces/festigeek/FestScan/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-database-10.2.6_d2503c0d0508c41a3a5dd5f3b121ab0709184354/classes.dex" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/bischof/workspaces/festigeek/FestScan/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-drive/10.2.6/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.3"
-        sha1="aec5337725e7a3171f7f40a50d9837745693d429">
-        <dex dex="/home/bischof/workspaces/festigeek/FestScan/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-drive-10.2.6_12b1eaf75b38116eb3fdaf8ff9e21866c65751d5.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/bischof/workspaces/festigeek/FestScan/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/10.2.6/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.3"
-        sha1="cea6fccbfe2b9ca7701a8766710179cd41ae1974">
-        <dex dex="/home/bischof/workspaces/festigeek/FestScan/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-wearable-10.2.6_118b9a3a1ef771c716a8ea13c4396bed68e684fd.jar" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/bischof/workspaces/festigeek/FestScan/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics-impl/10.2.6/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.3"
-        sha1="cad5ae5774f39b7017a3ae3d103e7b78506397b0">
-        <dex dex="/home/bischof/workspaces/festigeek/FestScan/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-analytics-impl-10.2.6_5769a71da3a094faa5029a5944b93f035d7665d4/classes.dex" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/bischof/workspaces/festigeek/FestScan/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/25.2.0/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.3"
-        sha1="af13a350b71b437ebf4be335d02a8f785c39b111">
-        <dex dex="/home/bischof/workspaces/festigeek/FestScan/app/build/intermediates/pre-dexed/debug/com.android.support-mediarouter-v7-25.2.0_7332a460e877a70aa974d06d2b7c820e1ee5e7f8.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/bischof/workspaces/festigeek/FestScan/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/10.2.6/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.3"
-        sha1="215363c803a119c16058c8bc0ccd0a4ee62e7157">
-        <dex dex="/home/bischof/workspaces/festigeek/FestScan/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-gcm-10.2.6_871a71eac7163b29f20a0264b88f948c8825a121.jar" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/bischof/workspaces/festigeek/FestScan/app/build/intermediates/exploded-aar/com.android.support/palette-v7/25.2.0/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.3"
-        sha1="9be5e957849eb82ad9addf9bdb2896de8bf5654b">
-        <dex dex="/home/bischof/workspaces/festigeek/FestScan/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-palette-v7-25.2.0_66e22416cf2db0ca0f167d404b66dc61ad2afd54/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/bischof/workspaces/festigeek/FestScan/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/10.2.6/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.3"
-        sha1="215363c803a119c16058c8bc0ccd0a4ee62e7157">
-        <dex dex="/home/bischof/workspaces/festigeek/FestScan/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-gcm-10.2.6_871a71eac7163b29f20a0264b88f948c8825a121/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/bischof/workspaces/festigeek/FestScan/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/10.2.6/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.3"
-        sha1="cea6fccbfe2b9ca7701a8766710179cd41ae1974">
-        <dex dex="/home/bischof/workspaces/festigeek/FestScan/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-wearable-10.2.6_118b9a3a1ef771c716a8ea13c4396bed68e684fd/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/bischof/workspaces/festigeek/FestScan/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/10.2.6/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.3"
-        sha1="577aa74e06e6b4b407ff23ac75043685ae26dcbb">
-        <dex dex="/home/bischof/workspaces/festigeek/FestScan/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-plus-10.2.6_fa541b28918a5fef6415d7f2d66ab6715f0c9146/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/bischof/workspaces/festigeek/FestScan/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/25.2.0/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.3"
-        sha1="af13a350b71b437ebf4be335d02a8f785c39b111">
-        <dex dex="/home/bischof/workspaces/festigeek/FestScan/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-mediarouter-v7-25.2.0_7332a460e877a70aa974d06d2b7c820e1ee5e7f8/classes.dex" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/bischof/workspaces/festigeek/FestScan/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads-lite/10.2.6/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.3"
-        sha1="9024225796c3f11342ef6a4a99439f2f988bafb0">
-        <dex dex="/home/bischof/workspaces/festigeek/FestScan/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-ads-lite-10.2.6_9dd83630233468e36479d32bdcdc3e83a6f665a4.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/bischof/workspaces/festigeek/FestScan/app/build/intermediates/exploded-aar/com.android.support/palette-v7/25.2.0/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.3"
-        sha1="9be5e957849eb82ad9addf9bdb2896de8bf5654b">
-        <dex dex="/home/bischof/workspaces/festigeek/FestScan/app/build/intermediates/pre-dexed/debug/com.android.support-palette-v7-25.2.0_66e22416cf2db0ca0f167d404b66dc61ad2afd54.jar" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/bischof/workspaces/festigeek/FestScan/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast-framework/10.2.6/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.3"
-        sha1="f9aa417cd6d4373c413f6e60865133bcfdb7096b">
-        <dex dex="/home/bischof/workspaces/festigeek/FestScan/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-cast-framework-10.2.6_8556e98c5c8409c06ff69a177cfafa311e81aa27/classes.dex" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/bischof/workspaces/festigeek/FestScan/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast-framework/10.2.6/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.3"
-        sha1="f9aa417cd6d4373c413f6e60865133bcfdb7096b">
-        <dex dex="/home/bischof/workspaces/festigeek/FestScan/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-cast-framework-10.2.6_8556e98c5c8409c06ff69a177cfafa311e81aa27.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/bischof/workspaces/festigeek/FestScan/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/10.2.6/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.3"
-        sha1="577aa74e06e6b4b407ff23ac75043685ae26dcbb">
-        <dex dex="/home/bischof/workspaces/festigeek/FestScan/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-plus-10.2.6_fa541b28918a5fef6415d7f2d66ab6715f0c9146.jar" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/bischof/workspaces/festigeek/FestScan/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads-lite/10.2.6/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.3"
-        sha1="9024225796c3f11342ef6a4a99439f2f988bafb0">
-        <dex dex="/home/bischof/workspaces/festigeek/FestScan/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-ads-lite-10.2.6_9dd83630233468e36479d32bdcdc3e83a6f665a4/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/bischof/workspaces/festigeek/FestScan/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appinvite/10.2.6/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.3"
-        sha1="79100391e3b32d7323a04b7b8a9c8ad0adbae583">
-        <dex dex="/home/bischof/workspaces/festigeek/FestScan/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-appinvite-10.2.6_b4d2991d1a27c4f18122ba2b39869420dbad6dd1/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/bischof/workspaces/festigeek/FestScan/app/build/intermediates/exploded-aar/com.google.firebase/firebase-appindexing/10.2.6/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.3"
-        sha1="b34276d1fea450411cedd49d3146b04838f9dd6e">
-        <dex dex="/home/bischof/workspaces/festigeek/FestScan/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-appindexing-10.2.6_71580c9264c4f06624888737f1c6fcf4f5da3cb8/classes.dex" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/bischof/workspaces/festigeek/FestScan/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-iid/10.2.6/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.3"
-        sha1="d54a722583c1b99735f62d395806fa38bf5669ae">
-        <dex dex="/home/bischof/workspaces/festigeek/FestScan/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-iid-10.2.6_853387842e4205568993086c099581361cab2098.jar" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/bischof/workspaces/festigeek/FestScan/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/10.2.6/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.3"
-        sha1="0c6924cbba8248329a8c58ead6a380efe7eee76e">
-        <dex dex="/home/bischof/workspaces/festigeek/FestScan/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-maps-10.2.6_c5f2dc69fb6d5cd774063a5ca3f6c296a6ddc351/classes.dex" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/bischof/workspaces/festigeek/FestScan/app/build/intermediates/exploded-aar/com.google.firebase/firebase-messaging/10.2.6/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.3"
-        sha1="9ff5114aff3bfb387577ba92a11408dcf0441c24">
-        <dex dex="/home/bischof/workspaces/festigeek/FestScan/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-messaging-10.2.6_aee10216ed0fef507150d51e69040e0d437abdfc.jar" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/bischof/workspaces/festigeek/FestScan/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-iid/10.2.6/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.3"
-        sha1="d54a722583c1b99735f62d395806fa38bf5669ae">
-        <dex dex="/home/bischof/workspaces/festigeek/FestScan/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-iid-10.2.6_853387842e4205568993086c099581361cab2098/classes.dex" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/bischof/workspaces/festigeek/FestScan/app/build/intermediates/exploded-aar/com.google.firebase/firebase-config/10.2.6/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.3"
-        sha1="c4ba6d53176502b2672a5d7d25a0000d1a6e701c">
-        <dex dex="/home/bischof/workspaces/festigeek/FestScan/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-config-10.2.6_71200bc45a3fa7306342f5c6ae7207fb353b2983.jar" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/bischof/workspaces/festigeek/FestScan/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth/10.2.6/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.3"
-        sha1="7b3eaf755284fb08a6d616a55fbb07dc3917d5e7">
-        <dex dex="/home/bischof/workspaces/festigeek/FestScan/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-auth-10.2.6_98e93f6c09ed2e8a188ef7519aa4ff9bef083258/classes.dex" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/bischof/workspaces/festigeek/FestScan/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth/10.2.6/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.3"
-        sha1="7b3eaf755284fb08a6d616a55fbb07dc3917d5e7">
-        <dex dex="/home/bischof/workspaces/festigeek/FestScan/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-auth-10.2.6_98e93f6c09ed2e8a188ef7519aa4ff9bef083258.jar" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/bischof/workspaces/festigeek/FestScan/app/build/intermediates/exploded-aar/com.google.firebase/firebase-messaging/10.2.6/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.3"
-        sha1="9ff5114aff3bfb387577ba92a11408dcf0441c24">
-        <dex dex="/home/bischof/workspaces/festigeek/FestScan/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-messaging-10.2.6_aee10216ed0fef507150d51e69040e0d437abdfc/classes.dex" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/bischof/workspaces/festigeek/FestScan/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/10.2.6/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.3"
-        sha1="0c6924cbba8248329a8c58ead6a380efe7eee76e">
-        <dex dex="/home/bischof/workspaces/festigeek/FestScan/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-maps-10.2.6_c5f2dc69fb6d5cd774063a5ca3f6c296a6ddc351.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/bischof/workspaces/festigeek/FestScan/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-panorama/10.2.6/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.3"
-        sha1="0c7e0d83e333a25f969bce43db78150c63e7aa0c">
-        <dex dex="/home/bischof/workspaces/festigeek/FestScan/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-panorama-10.2.6_f40e808d667a10c12298888fff153517d6a6e5b3.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/bischof/workspaces/festigeek/FestScan/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth-base/10.2.6/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.3"
-        sha1="8a43729dd397e849f2a8bdc5d57a2f3170efb3ed">
-        <dex dex="/home/bischof/workspaces/festigeek/FestScan/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-auth-base-10.2.6_8bb9206620bb1e67e46d076565eabf9839fd5115.jar" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/bischof/workspaces/festigeek/FestScan/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth-base/10.2.6/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.3"
-        sha1="8a43729dd397e849f2a8bdc5d57a2f3170efb3ed">
-        <dex dex="/home/bischof/workspaces/festigeek/FestScan/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-auth-base-10.2.6_8bb9206620bb1e67e46d076565eabf9839fd5115/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/bischof/workspaces/festigeek/FestScan/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/10.2.6/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.3"
-        sha1="0a534044236cf81b002604643d23e7ca56bd1ee0">
-        <dex dex="/home/bischof/workspaces/festigeek/FestScan/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-common-10.2.6_52eae0bb501712fc27ab4a33bf406115e8d33839/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/bischof/workspaces/festigeek/FestScan/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-safetynet/10.2.6/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.3"
-        sha1="d068a922134f5f9b9f98bfc609145e09af03c2a4">
-        <dex dex="/home/bischof/workspaces/festigeek/FestScan/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-safetynet-10.2.6_51b4fb44093bc20b131027310637987c391d7e83/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/bischof/workspaces/festigeek/FestScan/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-fitness/10.2.6/jars/classes.jar"
+        jar="/Users/Iosis/.android/build-cache/46ea826558992082eef49f3a00cace2fa2f40748/output/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.3"
         sha1="2f2f16fde0c662116f735951b4e830afba373cc6">
-        <dex dex="/home/bischof/workspaces/festigeek/FestScan/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-fitness-10.2.6_3afe0104a1f53c9dca9888e4aef16e166e8c2762/classes.dex" />
+        <dex dex="/Users/Iosis/Desktop/dev/Android/FestiScan/2017/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_42fac0241f13e5bee78bea5ca4ebc333bb85d709/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/home/bischof/workspaces/festigeek/FestScan/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/10.2.6/jars/classes.jar"
+        jar="/Users/Iosis/.android/build-cache/c5bfc9335b70300518309e28c83a5c8d6a244d1d/output/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.3"
-        sha1="8f83a631abfdb790591a720e0cfb5f41329831c3">
-        <dex dex="/home/bischof/workspaces/festigeek/FestScan/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-iid-10.2.6_d10a7b84dc2c84987cc37ccbbbc46a37575b820c/classes.dex" />
+        sha1="da832806828ba407284c0c4b1d87b8f9ed9f2520">
+        <dex dex="/Users/Iosis/Desktop/dev/Android/FestiScan/2017/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_4167b0fb52ffc6ba009def9c73b62178ead50868/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/home/bischof/workspaces/festigeek/FestScan/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/10.2.6/jars/classes.jar"
+        jar="/Users/Iosis/.android/build-cache/5c32010de2bbe33241671b677cb7c5ddc725a0e2/output/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.3"
-        sha1="60a8cdd1ad9b8d22a5d44bc8e479257ced2bf075">
-        <dex dex="/home/bischof/workspaces/festigeek/FestScan/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-cast-10.2.6_36cd1aa4b64c14194d99cbdf58c0743736ab1f54/classes.dex" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/bischof/workspaces/festigeek/FestScan/app/build/intermediates/exploded-aar/com.google.firebase/firebase-crash/10.2.6/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.3"
-        sha1="29bd9a40adebb952fbe97515aac9db5dfbd90d93">
-        <dex dex="/home/bischof/workspaces/festigeek/FestScan/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-crash-10.2.6_c1f21b85b1dc99349b9fa9c7dd1e4e2fce4dc763.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/bischof/workspaces/festigeek/FestScan/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/10.2.6/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.3"
-        sha1="8f83a631abfdb790591a720e0cfb5f41329831c3">
-        <dex dex="/home/bischof/workspaces/festigeek/FestScan/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-iid-10.2.6_d10a7b84dc2c84987cc37ccbbbc46a37575b820c.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/bischof/workspaces/festigeek/FestScan/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gass/10.2.6/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.3"
-        sha1="9b775d7b643397da3ab57e62ae8abb74a9cc9a83">
-        <dex dex="/home/bischof/workspaces/festigeek/FestScan/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-gass-10.2.6_9b4ea418534667af4f863c9bef23ebefbb984da9.jar" />
+        sha1="d068a922134f5f9b9f98bfc609145e09af03c2a4">
+        <dex dex="/Users/Iosis/Desktop/dev/Android/FestiScan/2017/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_8a873c86fe4ad13adb288c5357ae0ded20a96334/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/home/bischof/workspaces/festigeek/FestScan/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.3.1/jars/classes.jar"
+        jar="/Users/Iosis/.android/build-cache/418df88044b8fe83a851f95c1321f6ac626b4b0b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="cad5ae5774f39b7017a3ae3d103e7b78506397b0">
+        <dex dex="/Users/Iosis/Desktop/dev/Android/FestiScan/2017/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_fb3f69e93ed090ee4d2a9e875f5da8d2b245505a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Iosis/.android/build-cache/69366dd67c87a1cb300c64ed68b0c52e7fdbe398/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="b34276d1fea450411cedd49d3146b04838f9dd6e">
+        <dex dex="/Users/Iosis/Desktop/dev/Android/FestiScan/2017/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_726f722113f1870806963d7754fa02ed8f4b5955/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Iosis/.android/build-cache/64e67db63f445dc32389047dba7d671302feb192/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="af13a350b71b437ebf4be335d02a8f785c39b111">
+        <dex dex="/Users/Iosis/Desktop/dev/Android/FestiScan/2017/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_19bb471cf6a348e6e7a6592e9e508c8754e61f87/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Iosis/.android/build-cache/f7a299edee545a3cc347d4a9a1f99b580b5c9dc3/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="740c4226d6bec1adaaf5fee4b9178674b695f75a">
+        <dex dex="/Users/Iosis/Desktop/dev/Android/FestiScan/2017/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f906a122d8f2d23917e7d52f09c72140e0b94b35/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Iosis/.android/build-cache/021bab1cf60f3a94d1a895e737912cf6e79fe06f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="81978250f6de6ffdf2ea4632e7955613103e984c">
+        <dex dex="/Users/Iosis/Desktop/dev/Android/FestiScan/2017/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_bf5dae8406bf3d2055d425fbfa6336adfbf35967/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Iosis/.android/build-cache/c1f8ad47e6881bf75a9c60f49e218e21122fbc58/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/Users/Iosis/Desktop/dev/Android/FestiScan/2017/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_0313a7b2557ab3ee2d3f060c4c2f4b6f1c843f53/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Iosis/.android/build-cache/88b324b067f001d931480d6f7b83f587e7557ac4/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="9be5e957849eb82ad9addf9bdb2896de8bf5654b">
+        <dex dex="/Users/Iosis/Desktop/dev/Android/FestiScan/2017/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_71c134a08b9654698cf9f19dec36165b81936cba/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Iosis/.android/build-cache/4655cb4b69deaa6764874131a4acc625a5f194ea/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="cea6fccbfe2b9ca7701a8766710179cd41ae1974">
+        <dex dex="/Users/Iosis/Desktop/dev/Android/FestiScan/2017/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_088528d0b41caae9319743031efce2e2bb6a89e6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Iosis/.android/build-cache/d8209cc50ed62a8f2786bf50a3457d97111a403f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/Users/Iosis/Desktop/dev/Android/FestiScan/2017/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_039198246ef08d1a8721757c13f98ed8ee7b16bb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Iosis/.android/build-cache/e51d6a69801d92e29007699a35a0278bfbc5455b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="de24d8023e8da79f30bee46b298f606e5e758432">
+        <dex dex="/Users/Iosis/Desktop/dev/Android/FestiScan/2017/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_6cbac2d227aa7bb7d4144f6461e60c6256c99238/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Iosis/.android/build-cache/a3bf6f06b11c35ba13c57a9e176886f256c9f4c8/output/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.3"
         sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
-        <dex dex="/home/bischof/workspaces/festigeek/FestScan/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.3.1_a599958fc3e2a49aa63cd28d65696637b3ff7aa0/classes.dex" />
+        <dex dex="/Users/Iosis/Desktop/dev/Android/FestiScan/2017/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_6ab1a50b45814cbb6ae9f23c4a2a16af2bd94fdb/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/home/bischof/workspaces/festigeek/FestScan/app/build/intermediates/exploded-aar/com.google.firebase/firebase-crash/10.2.6/jars/classes.jar"
+        jar="/Users/Iosis/.android/build-cache/f6a0c52da5f93443c81880a6a1fac9d92c1ada83/output/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.3"
-        sha1="29bd9a40adebb952fbe97515aac9db5dfbd90d93">
-        <dex dex="/home/bischof/workspaces/festigeek/FestScan/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-crash-10.2.6_c1f21b85b1dc99349b9fa9c7dd1e4e2fce4dc763/classes.dex" />
+        sha1="dd057bc43f1c1e2f13566f5fe800d077b08b61b9">
+        <dex dex="/Users/Iosis/Desktop/dev/Android/FestiScan/2017/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_8d35a5eda4b4773fd8b83ab1002897dbaea090f7/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/home/bischof/workspaces/festigeek/FestScan/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.3.1/jars/classes.jar"
+        jar="/Users/Iosis/.android/build-cache/3f402764d9b153a0e52ed5f6b670713a813024e7/output/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.3"
-        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
-        <dex dex="/home/bischof/workspaces/festigeek/FestScan/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.3.1_6c0681359ab1577f02150cf5fe65f6119a1fcbc7/classes.dex" />
+        sha1="ba4defc8cb4ed5b90b8ef71602722cdeebe507cd">
+        <dex dex="/Users/Iosis/Desktop/dev/Android/FestiScan/2017/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_efa10a8f635ff6b9c7de1cd1b0b82580961062cc/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/home/bischof/workspaces/festigeek/FestScan/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-panorama/10.2.6/jars/classes.jar"
+        jar="/Users/Iosis/.android/build-cache/8043514eb317d98d3bda37e25dd248d0fff1a27b/output/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.3"
-        sha1="0c7e0d83e333a25f969bce43db78150c63e7aa0c">
-        <dex dex="/home/bischof/workspaces/festigeek/FestScan/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-panorama-10.2.6_f40e808d667a10c12298888fff153517d6a6e5b3/classes.dex" />
+        sha1="a00607e7cf55392edd324bc8fa3827ded7e9859b">
+        <dex dex="/Users/Iosis/Desktop/dev/Android/FestiScan/2017/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a458f16bcdd5cd1467dfeaab2150e61dfd4e9f6e/classes.dex" />
     </item>
     <item
-        is-multidex="false"
-        jar="/home/bischof/workspaces/festigeek/FestScan/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.3.1/jars/classes.jar"
+        is-multidex="true"
+        jar="/Users/Iosis/.android/build-cache/7b92e78b6cb6f66fa46a4178d71b1b72574871b8/output/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.3"
-        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
-        <dex dex="/home/bischof/workspaces/festigeek/FestScan/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.3.1_6c0681359ab1577f02150cf5fe65f6119a1fcbc7.jar" />
+        sha1="84a9797d6c3dd732d00f0433edc17778573cea17">
+        <dex dex="/Users/Iosis/Desktop/dev/Android/FestiScan/2017/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_3bbacc5a2a862e52cfe8c92dc9ef72a849079a51/classes.dex" />
     </item>
     <item
-        is-multidex="false"
-        jar="/home/bischof/workspaces/festigeek/FestScan/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/10.2.6/jars/classes.jar"
+        is-multidex="true"
+        jar="/Users/Iosis/.android/build-cache/0ab86b28d84fc23bca2d425704facbd8a1bb6709/output/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.3"
         sha1="0a534044236cf81b002604643d23e7ca56bd1ee0">
-        <dex dex="/home/bischof/workspaces/festigeek/FestScan/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-common-10.2.6_52eae0bb501712fc27ab4a33bf406115e8d33839.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/bischof/workspaces/festigeek/FestScan/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/10.2.6/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.3"
-        sha1="60a8cdd1ad9b8d22a5d44bc8e479257ced2bf075">
-        <dex dex="/home/bischof/workspaces/festigeek/FestScan/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-cast-10.2.6_36cd1aa4b64c14194d99cbdf58c0743736ab1f54.jar" />
+        <dex dex="/Users/Iosis/Desktop/dev/Android/FestiScan/2017/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_8f89f82b83bc08260f623bb81a96715c5a62d354/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/home/bischof/workspaces/festigeek/FestScan/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gass/10.2.6/jars/classes.jar"
+        jar="/Users/Iosis/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/Users/Iosis/Desktop/dev/Android/FestiScan/2017/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.3.1_3700e8c0f2d655e047da37d331420761fe052bb7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Iosis/.android/build-cache/e0564ceacdf1d4f92e5c2cc4a0525100dc3d5a4a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="aec5337725e7a3171f7f40a50d9837745693d429">
+        <dex dex="/Users/Iosis/Desktop/dev/Android/FestiScan/2017/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_7f4e8dca169e38c59842908c71ab4722e38c4b84/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Iosis/.android/build-cache/7f26a38289dd234e2e2f61b4ee3ae742c1a1371f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="f9aa417cd6d4373c413f6e60865133bcfdb7096b">
+        <dex dex="/Users/Iosis/Desktop/dev/Android/FestiScan/2017/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_bdf40ef0b3420303dee21009de5017d836f9c21b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Iosis/.android/build-cache/8eaa8dd8dbf6fd9c021b73861ca3d9f10d2a0069/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4d7184a651c5975b49928ce7c76175d491ee7a5e">
+        <dex dex="/Users/Iosis/Desktop/dev/Android/FestiScan/2017/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_33e65a3cc23109d3d36efffde950bce180830de0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Iosis/.android/build-cache/f0b5943294d6b41d65b2a20a056620031b43503b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="215363c803a119c16058c8bc0ccd0a4ee62e7157">
+        <dex dex="/Users/Iosis/Desktop/dev/Android/FestiScan/2017/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_532c63ed346a72a0e0cf81adb29118d7c4918a1a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Iosis/.gradle/caches/modules-2/files-2.1/org.apache.commons/commons-lang3/3.4/5fe28b9518e58819180a43a850fbc0dd24b7c050/commons-lang3-3.4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="5fe28b9518e58819180a43a850fbc0dd24b7c050">
+        <dex dex="/Users/Iosis/Desktop/dev/Android/FestiScan/2017/app/build/intermediates/transforms/dex/debug/folders/1000/10/commons-lang3-3.4_a37b09f6af15dc10a4c5fd87b57313b017cc369f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Iosis/.android/build-cache/658ead364377398c570f739180de320647b72d04/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="/Users/Iosis/Desktop/dev/Android/FestiScan/2017/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_91a3daf8e74f496cdbffa812852ef8988fcd5d42/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Iosis/.android/build-cache/067ce8b6f3d9a56ee8d51702af25ad26b4ee144f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d54a722583c1b99735f62d395806fa38bf5669ae">
+        <dex dex="/Users/Iosis/Desktop/dev/Android/FestiScan/2017/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_3de83ae21a1057e64a6d9e8308254a75e5d90231/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Iosis/.android/build-cache/acb6d79873434a90d01072b1f222558c1e96f6ab/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/Users/Iosis/Desktop/dev/Android/FestiScan/2017/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_16007a96e27014c7e469c871df6c00f701452626/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Iosis/.android/build-cache/08d65e915ef03fcf8974f39f64dc0e94bf599b9f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="79100391e3b32d7323a04b7b8a9c8ad0adbae583">
+        <dex dex="/Users/Iosis/Desktop/dev/Android/FestiScan/2017/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e5c3a664dc049078b7b397e1b2fe5778cef4f5a8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Iosis/.android/build-cache/1ed403af89f9fce641b0eae670a6b996e620154e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="/Users/Iosis/Desktop/dev/Android/FestiScan/2017/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_986ccd56999464e28a143631d1bb10de57c0418e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Iosis/.android/build-cache/654babe574d125a21c90cd334f04fbc64b6599ef/output/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.3"
         sha1="9b775d7b643397da3ab57e62ae8abb74a9cc9a83">
-        <dex dex="/home/bischof/workspaces/festigeek/FestScan/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-gass-10.2.6_9b4ea418534667af4f863c9bef23ebefbb984da9/classes.dex" />
+        <dex dex="/Users/Iosis/Desktop/dev/Android/FestiScan/2017/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c1d103eefb6e7ec561af43939ef398f8cfb1c3a9/classes.dex" />
     </item>
     <item
-        is-multidex="false"
-        jar="/home/bischof/workspaces/festigeek/FestScan/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.3.1/jars/classes.jar"
+        is-multidex="true"
+        jar="/Users/Iosis/.android/build-cache/f21f0b6d69ffbd87dd02b370dde733c4033b63e6/output/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.3"
-        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
-        <dex dex="/home/bischof/workspaces/festigeek/FestScan/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-25.3.1_a599958fc3e2a49aa63cd28d65696637b3ff7aa0.jar" />
+        sha1="3dbaff65d26258306561d545f88d6712ac41dd46">
+        <dex dex="/Users/Iosis/Desktop/dev/Android/FestiScan/2017/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_7fe7fbf0486a046ffb127fb7b1d60c60b6b872b7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Iosis/.android/build-cache/1f5cff9e12c338015b8904720b858dee59f82a3f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="9ff5114aff3bfb387577ba92a11408dcf0441c24">
+        <dex dex="/Users/Iosis/Desktop/dev/Android/FestiScan/2017/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c8f4100e76d2c9eb5a8fdbe19be0b4698534bad3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Iosis/.android/build-cache/b39d301c87003beb9be49be01ebf78bded87fe2c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="3f0a85e6000998ac322ddd50750e8cf91601a84b">
+        <dex dex="/Users/Iosis/Desktop/dev/Android/FestiScan/2017/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_7cd798a670f91d1acb37a84e4011ba48b4cf50ed/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Iosis/.android/build-cache/fede5ba2598d84471a77163f37fcd70d89be9311/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/Iosis/Desktop/dev/Android/FestiScan/2017/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_6a53c4a747927c706c3dee4e583365e8ddc7b2bd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Iosis/.android/build-cache/5aa8012df589acffd9713dbcc86e2fff318005f0/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="577aa74e06e6b4b407ff23ac75043685ae26dcbb">
+        <dex dex="/Users/Iosis/Desktop/dev/Android/FestiScan/2017/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ffc7e869c7fc53e661f9b643fbeec4a78d13309e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Iosis/.android/build-cache/9cc20910545c499f2c1facdeb9833b3ffa93c336/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="7979972576b6dbb1688052e42e5199abb54f81ba">
+        <dex dex="/Users/Iosis/Desktop/dev/Android/FestiScan/2017/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_595601cd63a216ebf0e9b7bbf5ae9544c229965a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Iosis/.android/build-cache/54e9e37796a060d7bc95230eac97fd0f87622021/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="0c6924cbba8248329a8c58ead6a380efe7eee76e">
+        <dex dex="/Users/Iosis/Desktop/dev/Android/FestiScan/2017/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e35fd7e7f081bfdc7f99ac465b529899a9c61ff4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Iosis/.android/build-cache/2337832186ff0149232aef50875f50e9c21898a7/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="9024225796c3f11342ef6a4a99439f2f988bafb0">
+        <dex dex="/Users/Iosis/Desktop/dev/Android/FestiScan/2017/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2eff348038a1b2196264763a40cb70518490ec2d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Iosis/.android/build-cache/865aa51ed4d0e65657b21e6b92ef20ad96d8e2ba/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="5c1f80f62ccad560edcd6609fc75f385cf7cb45a">
+        <dex dex="/Users/Iosis/Desktop/dev/Android/FestiScan/2017/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2bd7303050e56a2704f2a1b269a5673abdd6e4b9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Iosis/.android/build-cache/72764bbdb53dbea908ac762ef2d4b72eb4eb7b52/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/Users/Iosis/Desktop/dev/Android/FestiScan/2017/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_0dc091c6874e54f33b610a108587f7d645d92d34/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Iosis/.android/build-cache/6c4d40f05f6dd3154b0bb675f8a8d88c33636113/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="8f83a631abfdb790591a720e0cfb5f41329831c3">
+        <dex dex="/Users/Iosis/Desktop/dev/Android/FestiScan/2017/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_3c458e6361ab2d4adcfe58e6817da8e64c93db83/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Iosis/.android/build-cache/b993f247b367c86adf603e91bf9c0a8b20f5ad8c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="7b3eaf755284fb08a6d616a55fbb07dc3917d5e7">
+        <dex dex="/Users/Iosis/Desktop/dev/Android/FestiScan/2017/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ac3e1f03d8553d20a835ce5798fb23c47f342864/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Iosis/.android/build-cache/9f126f228a91529eeab399b4358bf06b7e837d61/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="ab2c6111c9e733c965725976ca2a2e57670000f9">
+        <dex dex="/Users/Iosis/Desktop/dev/Android/FestiScan/2017/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_10d8f14c91468da98e8872ab8cc526a9928dc169/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Iosis/.android/build-cache/b3b615483bcedb81d43ade65fbb9bb4eaf582f90/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="ec94bba6a9bbd3461d90830e0a0752a6487f5484">
+        <dex dex="/Users/Iosis/Desktop/dev/Android/FestiScan/2017/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_bcf190deb0f540104215f30a02a65a882bdb058f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Iosis/.android/build-cache/29789fab14652cc7b7c16fa710254baf92e76607/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/Users/Iosis/Desktop/dev/Android/FestiScan/2017/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ec7976cb3e379b1ace47174240ae470c8a77c3f8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Iosis/.android/build-cache/03ee52d7c954b502fd5ce7cffa49bfb50ab35520/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/Users/Iosis/Desktop/dev/Android/FestiScan/2017/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_543450524f56cdc4057569277d27c7f1cbb8500a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Iosis/.android/build-cache/abafeef8adbdeb4d4e0991564d0a65094fc3b52b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="60a8cdd1ad9b8d22a5d44bc8e479257ced2bf075">
+        <dex dex="/Users/Iosis/Desktop/dev/Android/FestiScan/2017/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f86044b7bfe3e1807c3968fdc516b156e9bdd506/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Iosis/.android/build-cache/5e7667ae32521bae9fe05f58bc67dd716bde810f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="0c7e0d83e333a25f969bce43db78150c63e7aa0c">
+        <dex dex="/Users/Iosis/Desktop/dev/Android/FestiScan/2017/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e05d4ef8272cfd573208cdc914d1761f7b04b592/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Iosis/.android/build-cache/45cf8a224adc490ea0411caac043a3f3ebbf06e5/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="8a43729dd397e849f2a8bdc5d57a2f3170efb3ed">
+        <dex dex="/Users/Iosis/Desktop/dev/Android/FestiScan/2017/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_1570c29eff046a28edc45b6b151b2dd71668ee4f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Iosis/.android/build-cache/6e621ba692f5ab30e1ecedb6a438b8bdb2e0f415/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="/Users/Iosis/Desktop/dev/Android/FestiScan/2017/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_8bb6bb9b3bd253e561b3689e00ad4a94865cd499/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Iosis/.android/build-cache/34b802ec351710932c4342d2c93af7da47eb119b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="c4ba6d53176502b2672a5d7d25a0000d1a6e701c">
+        <dex dex="/Users/Iosis/Desktop/dev/Android/FestiScan/2017/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_6adc3e5dee602a38715dde8f6cb3d841a69e738f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Iosis/.android/build-cache/2691bcce5d4fb07eac0324a58111a4d6603c1ba9/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="29bd9a40adebb952fbe97515aac9db5dfbd90d93">
+        <dex dex="/Users/Iosis/Desktop/dev/Android/FestiScan/2017/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f6123c705f2b76369b918f1459a348bc9174ce94/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Iosis/.android/build-cache/91204b85bc6dbdf5d95d54206db6fa74353948b7/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="f1968b9614bc6851e99db64e356cf60063503e5d">
+        <dex dex="/Users/Iosis/Desktop/dev/Android/FestiScan/2017/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_8b13378d5dcab9980bf393bb0a5655fd9bbe2462/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Iosis/.android/build-cache/43c1a37771b89a42ded9b153473dc0b8eef8d639/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/Users/Iosis/Desktop/dev/Android/FestiScan/2017/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_46ad40bb7bc076790751503f18cae41c877f2983/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Iosis/.android/build-cache/e4c040f5990463e59a36b0f849fd6409079edbc9/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="1b41f7538ea1af0aad76cb3253b87b13744788c2">
+        <dex dex="/Users/Iosis/Desktop/dev/Android/FestiScan/2017/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a9b0f2729814d008a21239d651256f538e931169/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Iosis/.android/build-cache/838a539b572fe864272a7ea1a341748c077b0189/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="079c035b2a1820bf455e0ae7fd484dec575e2182">
+        <dex dex="/Users/Iosis/Desktop/dev/Android/FestiScan/2017/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_725d26d6713e781b80481c547d8062cc2289118c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Iosis/.android/build-cache/3a36ca7d43ce63377b901a8cec13962d693dcb66/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="900a290779cdb4eb2e63b6f7806fd9f30ce4f60d">
+        <dex dex="/Users/Iosis/Desktop/dev/Android/FestiScan/2017/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d35082ffc9efda97b4c39e3946c44000b0dd983d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Iosis/.android/build-cache/45be534977454908ff5f36cec4ed9e197365a595/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="cf5f630e354827a90ffe90ce2a330495108f0595">
+        <dex dex="/Users/Iosis/Desktop/dev/Android/FestiScan/2017/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_fb4609ba274702d4005a21f27164fcea15e250cd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Iosis/.android/build-cache/a0d301c403c52ea65430690a8eacc27a9b92270d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d4e5223997fa6032b326167ee4586ae0b3498647">
+        <dex dex="/Users/Iosis/Desktop/dev/Android/FestiScan/2017/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_bf71516df1fdd7bc1028bd3b88ca26419ee0dba3/classes.dex" />
     </item>
 
 </items>
